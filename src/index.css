@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.textRead{
+  border-color: red;
+  background-color:#FCD2D1;
+}
+
+.textboxred{
+  color:red;
+}
+
+.disabled1 {
+  background-color:grey;
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.disabled1:hover {
+  background-color:grey;
+  opacity: 0.6;
+  cursor: not-allowed;
+}
